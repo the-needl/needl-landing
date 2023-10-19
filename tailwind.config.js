@@ -47,7 +47,8 @@ export default {
     'Segoe UI Emoji', 
     'Segoe UI Symbol', 
     'Noto Color Emoji'
-  ]
+  ],
+  'press-start': ['"Press Start 2P"', 'cursive'],
     }
   }
 }

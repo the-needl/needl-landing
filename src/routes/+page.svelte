@@ -43,7 +43,7 @@
 
 <div class="flex justify-center h-screen bg-gray-900 isolate overflow-hidden relative">
         <div class="m-auto">
-            <h1 class="text-6xl font-bold text-white opacity-90 blur-sm sm:text-8xl text-center mb-12">&lt;the-needl&gt;</h1>
+            <h1 class="text-3xl font-press-start text-white opacity-90 blur-sm md:text-7xl text-center sm:mb-14 mb-8">&lt;the-needl&gt;</h1>
             <h2 class="mx-4 md:mx-auto text-2xl font-bold text-white opacity-85 sm:text-4xl text-center">Get notified when we're launching.</h2>
 
                 <form on:submit|preventDefault={handleSubmit} class="mt-6 mx-5 md:mx-auto flex max-w-md gap-x-4">
